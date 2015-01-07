@@ -26,3 +26,8 @@ Secure Resource Access With OAuth Token
 http://localhost:8080/oauth2/test/ateam?access_token=987aab49-3ccf-43db-a9d4-8a10198ec5d0
 #### URI
 /test/ateam?access_token=987aab49-3ccf-43db-a9d4-8a10198ec5d0
+
+
+
+##!!!!! Important Other References !!!!!!
+http://porterhead.blogspot.com/2014/05/securing-rest-services-with-spring.html
